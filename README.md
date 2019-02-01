@@ -17,3 +17,6 @@ You should run a local server and connect to localhost.
 
 # Screenshot
 ![alt text](https://raw.githubusercontent.com/PeterHo8888/BigTwo/master/screenshot.png)
+
+# Notes
+Card images were royalty-free.  The other images included were chosen by the aforementioned friend (avatars, win-lose, go, and background).
